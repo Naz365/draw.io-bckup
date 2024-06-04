@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T08:41:14.028Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="CM-w6cR_hFv3vHo5Q-fl" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T08:51:25.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="WCvxkqlofynDqjfvD2e8" version="24.4.13" type="github">
   <diagram name="Page-1" id="oymyzgAdMH7DhDLPlfsh">
-    <mxGraphModel dx="1120" dy="468" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1520" dy="468" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rMVXhhpvCv358xQYykOc-1" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ICC JR SW3&lt;/font&gt;&lt;/b&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Modular_Switch_SBx8112.svg;" vertex="1" parent="1">
+          <mxGeometry x="354" y="141" width="89.4" height="91.8" as="geometry" />
+        </mxCell>
+        <mxCell id="rMVXhhpvCv358xQYykOc-2" value="&lt;b&gt;ICC Uttara AN SW&lt;/b&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Modular_Switch_SBx8106.svg;" vertex="1" parent="1">
+          <mxGeometry x="-177" y="340" width="85.8" height="73.8" as="geometry" />
+        </mxCell>
+        <mxCell id="rMVXhhpvCv358xQYykOc-3" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Modular_Switch_SBx8106.svg;" vertex="1" parent="1">
+          <mxGeometry x="169" y="373" width="85.8" height="73.8" as="geometry" />
+        </mxCell>
+        <mxCell id="rMVXhhpvCv358xQYykOc-4" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Modular_Switch_SBx8106.svg;" vertex="1" parent="1">
+          <mxGeometry x="470" y="377" width="85.8" height="73.8" as="geometry" />
+        </mxCell>
+        <mxCell id="rMVXhhpvCv358xQYykOc-5" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Modular_Switch_SBx8106.svg;" vertex="1" parent="1">
+          <mxGeometry x="312" y="377" width="85.8" height="73.8" as="geometry" />
+        </mxCell>
+        <mxCell id="rMVXhhpvCv358xQYykOc-6" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Modular_Switch_SBx8106.svg;" vertex="1" parent="1">
+          <mxGeometry x="716" y="377" width="85.8" height="73.8" as="geometry" />
+        </mxCell>
+        <mxCell id="rMVXhhpvCv358xQYykOc-7" value="&lt;b&gt;ICC Uttara FDN SW&lt;/b&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Modular_Switch_SXx908GEN2.svg;" vertex="1" parent="1">
+          <mxGeometry x="-313" y="500" width="78" height="66.60000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="rMVXhhpvCv358xQYykOc-8" value="&lt;b&gt;ICC Uttara BDNetwork SW&lt;/b&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Modular_Switch_SXx908GEN2.svg;" vertex="1" parent="1">
+          <mxGeometry x="-71" y="500" width="78" height="66.60000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="rMVXhhpvCv358xQYykOc-11" value="&lt;b&gt;ICC Ashkona SW&lt;/b&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_24_port_L3.svg;" vertex="1" parent="1">
+          <mxGeometry x="-323" y="636" width="74.4" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="rMVXhhpvCv358xQYykOc-12" value="&lt;b&gt;ICC Uttara Net3link SW&lt;/b&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_24_port_L3.svg;" vertex="1" parent="1">
+          <mxGeometry x="-323" y="760" width="74.4" height="51" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
